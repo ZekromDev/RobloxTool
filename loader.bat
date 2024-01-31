@@ -6,7 +6,7 @@ cls
 color 09
 
 echo ----------------------------------------------
-echo [               Chargement en cours...               ]
+echo [               Chargement en cours...        ]
 echo ----------------------------------------------
 echo.
 
